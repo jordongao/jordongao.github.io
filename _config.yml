@@ -79,7 +79,7 @@ disqus: loffer #shortname
 gitalk:
   clientID: ec76ad004455f1973b95
   clientSecret: ae7267c0de042d95a4ff0d6b055c7559ca69cfee
-  repo: https://www.gaos.world
+  repo: /
   owner: jordongao
 
 # 输入Google Analytics web tracking code
