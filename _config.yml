@@ -18,7 +18,6 @@ url: https://www.gaos.world
 # 那么就写成 "/repository-name"
 baseurl: /
 
-
 #
 # 下面的设定都是可选的
 #
@@ -28,7 +27,6 @@ avatar: /images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: /images/favicon.ico
-
 
 # 菜单中的按钮
 navigation:
