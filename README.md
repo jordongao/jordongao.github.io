@@ -5,6 +5,6 @@
 ## 致谢
 
 * [Jekyll](https://github.com/jekyll/jekyll) - 这是本站存在的根基
-* [Kiko-now](<https://github.com/aweekj/kiko-now>) - 我首先是fork这个主题，然后再其上进行修改汉化，才有了LOFFER
+* [Kiko-now](<https://github.com/aweekj/kiko-now>) - LOFFER模板的原始来源
 * [Font Awesome](<https://fontawesome.com/>) - 社交网络图标来自FontAwesome的免费开源内容
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
+* [LOFFTER](<https://fromendworld.github.io/LOFFER/document/>) - 本博客的源代码来源
